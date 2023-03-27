@@ -1,0 +1,20 @@
+
+div{
+    color: black;
+}
+h1{
+    color: red;
+}
+
+p, pre {
+    font-size: 1rem;
+}
+
+p {
+    font-weight: bold;
+}
+
+pre{
+    color: blue;
+    font-weight: light;
+}
